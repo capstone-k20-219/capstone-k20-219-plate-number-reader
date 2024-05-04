@@ -1,0 +1,11 @@
+# ignore credentials.json file
+credentials.json
+
+# ignore .env file
+.env
+
+# ignore images folder
+images/
+
+# ignore __pycache__ folder
+__pycache__/
